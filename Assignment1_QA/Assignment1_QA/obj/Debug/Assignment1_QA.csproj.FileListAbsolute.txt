@@ -1,0 +1,7 @@
+D:\College semester-2\Assignment1_QA\Assignment1_QA\Assignment1_QA\bin\Debug\Assignment1_QA.exe.config
+D:\College semester-2\Assignment1_QA\Assignment1_QA\Assignment1_QA\bin\Debug\Assignment1_QA.exe
+D:\College semester-2\Assignment1_QA\Assignment1_QA\Assignment1_QA\bin\Debug\Assignment1_QA.pdb
+D:\College semester-2\Assignment1_QA\Assignment1_QA\Assignment1_QA\obj\Debug\Assignment1_QA.csprojAssemblyReference.cache
+D:\College semester-2\Assignment1_QA\Assignment1_QA\Assignment1_QA\obj\Debug\Assignment1_QA.csproj.CoreCompileInputs.cache
+D:\College semester-2\Assignment1_QA\Assignment1_QA\Assignment1_QA\obj\Debug\Assignment1_QA.exe
+D:\College semester-2\Assignment1_QA\Assignment1_QA\Assignment1_QA\obj\Debug\Assignment1_QA.pdb
